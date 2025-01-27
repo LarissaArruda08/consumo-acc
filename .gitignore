@@ -12,7 +12,6 @@ target/
 .settings
 .springBeans
 .sts4-cache
-.mvnw
 
 ### IntelliJ IDEA ###
 .idea
@@ -32,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+mvnw
+mvnw.cmd
+.mvn/wrapper/maven-wrapper.properties
+.gitattributes
